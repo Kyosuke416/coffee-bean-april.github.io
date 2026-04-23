@@ -60,7 +60,7 @@ p {
 
 /* Banner area */
 .banner {
-    background-image: url('/assets/images/banner-bg.jpg');
+    background-image: url('../images/banner-bg.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
